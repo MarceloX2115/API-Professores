@@ -22,7 +22,7 @@
    ```sql
    CREATE DATABASE escola;
    ```
-3. Execute o script `db/script.sql` no banco `escola` (cria a tabela `professor` e insere registros iniciais).
+3. cria a tabela `professor` e insere registros iniciais.
 4. Ajuste usuário e senha do banco em `src/main/resources/application.properties`, se necessário.
 5. Inicie a aplicação:
    ```bash
