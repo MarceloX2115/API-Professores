@@ -67,19 +67,19 @@ Exemplo de corpo para POST/PUT:
 > Adicione aqui os prints dos testes (Postman/Insomnia) mostrando método, URL, dados enviados, status e resposta.
 
 ### Caso 1 — Listar professores (`GET /professores`)
-![Listar](prints/01-listar.png)
+![Listar](prints/01-Listar_professores.png)
 
 ### Caso 2 — Filtrar por nome (`GET /professores/nome/{nome}`)
-![Nome](prints/02-nome.png)
+![Nome](prints/02-Listar_professores_nomes.png)
 
 ### Caso 3 — Filtrar por área (`GET /professores/area/{area}`)
-![Área](prints/03-area.png)
+![Área](prints/03-Listar_areas.png)
 
 ### Caso 4 — Cadastrar professor (`POST /professores`)
-![Cadastrar](prints/04-cadastrar.png)
+![Cadastrar](prints/04-Cadastrando_professores.png)
 
 ### Caso 5 — Editar professor (`PUT /professores/{id}`)
-![Editar](prints/05-editar.png)
+![Editar](prints/05-Editanto_professores.png)
 
 ### Caso 6 — Excluir professor (`DELETE /professores/{id}`)
-![Excluir](prints/06-excluir.png)
+![Excluir](prints/06-Deletando_professores.png)
