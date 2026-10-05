@@ -79,7 +79,7 @@ Exemplo de corpo para POST/PUT:
 ![Cadastrar](prints/04-Cadastrando_professores.png)
 
 ### Caso 5 — Editar professor (`PUT /professores/{id}`)
-![Editar](prints/05-Editanto_professores.png)
+![Editar](prints/05-Editando_professores.png)
 
 ### Caso 6 — Excluir professor (`DELETE /professores/{id}`)
 ![Excluir](prints/06-Deletando_professores.png)
