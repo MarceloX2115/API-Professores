@@ -2,8 +2,8 @@
 
 ## Identificação
 
-- **Aluno:** _(coloque seu nome aqui)_
-- **Disciplina:** _(coloque o nome da disciplina aqui)_
+- **Aluno:** _(Marcelo Sampaio)_
+- **Disciplina:** _(Desenvolvimento BackEnd com Java)_
 - **Descrição:** API REST para cadastro e gerenciamento de professores, com operações de CRUD e filtros por nome e por área, desenvolvida com Spring Boot, Spring Data JPA e PostgreSQL.
 
 ## Tecnologias utilizadas
@@ -22,7 +22,7 @@
    ```sql
    CREATE DATABASE escola;
    ```
-3. Execute o script `db/script.sql` no banco `escola` (cria a tabela `professor` e insere registros iniciais).
+3. cria a tabela `professor` e insere registros iniciais.
 4. Ajuste usuário e senha do banco em `src/main/resources/application.properties`, se necessário.
 5. Inicie a aplicação:
    ```bash
